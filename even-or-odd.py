@@ -6,3 +6,5 @@ if num % 2 == 0:
 else:
     print("The number is odd")
     print("This number is not divisible by 2")
+
+print("program completed successfully")
